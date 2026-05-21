@@ -39,6 +39,7 @@ nav, p, section, article {
 
 .hero {
     position: relative;
+    color: var(--secondary-color);
 }
 
 .hero img {
@@ -59,7 +60,7 @@ nav, p, section, article {
 }
 
 .hero article {
-    position: relative;
+    position: absolute;
 }
 
 .hero article img {
