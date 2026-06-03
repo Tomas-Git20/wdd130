@@ -80,8 +80,13 @@ nav, p, section, article {
     width: 125px;
 }
 
-.foot{
+.foot {
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
+}
+
+.socialmedia {
+    display: flex;
+    gap: 10px;
 }
